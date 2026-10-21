@@ -202,7 +202,7 @@ The Next.js application is ready to run locally:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/graphhacks/graphhacks.git
+git clone https://github.com/Diva-L123/graphhacks.git
 cd graphhacks
 
 # 2. Install dependencies
